@@ -1,3 +1,14 @@
+<b>About Project</b>
+
+This project is about a small fashion store. It has a variety of clothes for girls and boys. And you can send us a picture or document in the form of a clothes to help the project team with new things that you want to see in our store. If the transfer was successful, you will receive a message thanking you for your help. Several hyphens and beautiful pictures were used to decorate the project. The overall color of the project is violet, mint, white, black and grey. And in the project we shared the sales and discounts.
+You can contact us not only by mail, but also through other social networks. for example: instagram, youtube, twitter and facebook.
+And when you follow the link for a male and a female at the top, you will easily go to the corresponding section.
+
+<b>ER diagram of the my project</b>
+<br><br>
+![erdFashion](https://user-images.githubusercontent.com/78197235/116750663-9dec8480-aa24-11eb-9a06-4a77e2af72fe.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
